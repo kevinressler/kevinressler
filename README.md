@@ -1,16 +1,18 @@
-## Kevin Ressler
+# 👋 Hi, I'm Kevin Ressler  
 
-<!--
-**kevinressler/kevinressler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior at the **University of Pittsburgh**  
+💻 **Computer Science & Data Science** (B.S.) • Minor in **Economics**  
 
-Here are some ideas to get you started:
+📚 **Current Coursework**  
+- 🏗️ Software Engineering  
+- 🗄️ Database Management Systems  
+- 📊 Probability  
+- 📈 Optimization  
+- 📑 Foundations of Data Science  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with Me  
+📧 [kevin.ressler24@gmail.com](mailto:kevin.ressler24@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)  
+💻 [GitHub](https://github.com/kevinressler)  
