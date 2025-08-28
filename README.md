@@ -14,4 +14,4 @@
 
 ## 🌐 Connect with Me  
 📧 [kevin.ressler24@gmail.com](mailto:kevin.ressler24@gmail.com)  
-💼 [LinkedIn](www.linkedin.com/in/kevin-ressler-09604929b)  
+💼 [LinkedIn]('www.linkedin.com/in/kevin-ressler-09604929b')  
