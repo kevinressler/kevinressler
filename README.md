@@ -12,11 +12,6 @@
 
 ---
 
-## 📝 About Me  
-Outside of tech, I’m passionate about staying active — whether that’s lifting in the gym, running, or playing basketball (my favorite sport). I also enjoy cooking, especially perfecting a ribeye steak. This past summer, I had the chance to study abroad in **Barcelona**, which gave me a global perspective and a deeper appreciation for learning through new experiences.  
-
----
-
 ## 🌐 Connect with Me  
 📧 [kevin.ressler24@gmail.com](mailto:kevin.ressler24@gmail.com)  
 💼 [LinkedIn](www.linkedin.com/in/kevin-ressler-09604929b)  
